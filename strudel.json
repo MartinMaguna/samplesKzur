@@ -32,5 +32,6 @@
   "elOnce30": ["ElOnce/once_30.wav"],
   "elOnce31": ["ElOnce/once_31.wav"],
   "frontera": ["PoeticasTransfronterizas/Poeticas_Transfronterizas_01.wav"],
-  "chile": ["PoeticasTransfronterizas/cristobalchile.wav"]  
+  "chile": ["PoeticasTransfronterizas/cristobalchile.wav"],
+  "luzcarpio": ["luzcarpio/carpio01.mp3"]  
 }
